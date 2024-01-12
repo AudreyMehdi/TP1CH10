@@ -9,3 +9,4 @@
 2023-12-19 17:13:01,846 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Utilisateur\Documents\Ecole\Stéphane\Workspacech10\java-poo\src\main\resources
 2023-12-19 17:13:01,852 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Utilisateur\Documents\Ecole\Stéphane\Workspacech10\java-poo\src\test\resources
 2024-01-04 15:57:58,535 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-12 14:20:45,903 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
